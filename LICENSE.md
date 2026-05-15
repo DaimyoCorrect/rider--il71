@@ -1,4 +1,4 @@
-# 
+# Enhance JetBrains Rider for PC | JetBrains Rider for Windows with smart JetBrains Rider for PC | JetBrains Rider for Windows Workflow | plugin-system + snippets, the #1 workflow.
 
 
 
